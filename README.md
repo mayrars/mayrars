@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayra</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<p align="left"> <a href="https://twitter.com/mayrars203" target="blank"><img src="https://img.shields.io/twitter/follow/mayrars203?logo=twitter&style=for-the-badge" alt="mayrars203" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MayraRod17" target="blank"><img src="https://img.shields.io/twitter/follow/mayrars203?logo=twitter&style=for-the-badge" alt="mayrars203" /></a> </p>
 
 - 🌱 I’m currently learning **design patterns, angular, vue**
 
